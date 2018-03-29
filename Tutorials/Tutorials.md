@@ -95,6 +95,6 @@ Upload the code linked here to your Feather to get started:
 
 ![](tutorial%20images/paper%20data%20dashboard.jpg)
 
-![](tutorial%20images/paper%20data%20dashboard%20unfolded%20front.jpg)
+![](tutorial%20images/paper%20data%20dashboard%20unfolded%20front.JPG)
 
 ![](tutorial%20images/paper%20data%20dashboard%20unfolded%20back.JPG)
