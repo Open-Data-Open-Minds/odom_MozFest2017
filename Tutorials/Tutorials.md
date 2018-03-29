@@ -20,7 +20,8 @@
 
 | | | |
 ------------- | ------------- | ------------
-![](tutorial%20images/image1.jpg)  | ![](tutorial images/image9.jpg) | ![Content Cell](tutorial images/image13.jpg)
+![](tutorial%20images/image1.jpg)  | ![](tutorial%20images/image9.jpg) | ![](tutorial%20images/image13.jpg)
+
 ![](tutorial%20images/image2.jpg)
 ![](tutorial%20images/image7.jpg)
 
@@ -55,9 +56,9 @@
 
 | | |
 ------------- | -------------
-![](tutorial images/image5.jpg) | ![](tutorial images/image19.jpg)
-![](tutorial images/image3.jpg)
-![](tutorial images/image6.jpg)
+![](tutorial%20images/image5.jpg) | ![](tutorial images/image19.jpg)
+![](tutorial%20images/image3.jpg)
+![](tutorial%20images/image6.jpg)
 
 
 ## Build a “Scratch Paper” ESP 8266
@@ -84,15 +85,15 @@ Upload the code linked here to your Feather to get started:
 
 4. The example code retrieves AQI from an online API. To use it, you’ll need your own API key to tell the air quality server who is making the request. You can get one here (for free): https://docs.airnowapi.org/, then put the number in the marked place in the code.
 
-![](tutorial images/image20.jpg)
-![](tutorial images/image10.jpg)
-![](tutorial images/image16.jpg)
-![](tutorial images/image11.jpg)
+![](tutorial%20images/image20.jpg)
+![](tutorial%20images/image10.jpg)
+![](tutorial%20images/image16.jpg)
+![](tutorial%20images/image11.jpg)
 
 ## The "One Hour" Paper Data Dashboard
 
-![](tutorial images/paper data dashboard.jpg)
+![](tutorial%20images/paper data dashboard.jpg)
 
-![](tutorial images/paper data dashboard.jpg)
+![](tutorial%20images/paper data dashboard.jpg)
 
-![](tutorial images/paper data dashboard unfolded back.JPG)
+![](tutorial%20images/paper data dashboard unfolded back.JPG)
