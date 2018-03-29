@@ -56,7 +56,8 @@
 
 | | |
 ------------- | -------------
-![](tutorial%20images/image5.jpg) | ![](tutorial images/image19.jpg)
+![](tutorial%20images/image5.jpg) | ![](tutorial%20images/image19.jpg)
+
 ![](tutorial%20images/image3.jpg)
 ![](tutorial%20images/image6.jpg)
 
@@ -92,8 +93,8 @@ Upload the code linked here to your Feather to get started:
 
 ## The "One Hour" Paper Data Dashboard
 
-![](tutorial%20images/paper data dashboard.jpg)
+![](tutorial%20images/paper%20data%20dashboard.jpg)
 
-![](tutorial%20images/paper data dashboard.jpg)
+![](tutorial%20images/paper%20data%20dashboard%20unfolded%20front.jpg)
 
-![](tutorial%20images/paper data dashboard unfolded back.JPG)
+![](tutorial%20images/paper%20data%20dashboard%20unfolded%20back.JPG)
