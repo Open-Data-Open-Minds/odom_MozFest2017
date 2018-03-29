@@ -54,11 +54,11 @@
 
 **Note**: always make sure to disconnect power before inserting or removing the microSD card. You can do this by disconnecting the +5V or the GND alligator clip.
 
-| | |
-------------- | -------------
-![](tutorial%20images/image5.jpg) | ![](tutorial%20images/image19.jpg)
-
+| | | |
+------------- | ------------- | -------------
+![](tutorial%20images/image5.jpg) | ![](tutorial%20images/image19.jpg) | 
 ![](tutorial%20images/image3.jpg)
+
 ![](tutorial%20images/image6.jpg)
 
 
@@ -86,9 +86,9 @@ Upload the code linked here to your Feather to get started:
 
 4. The example code retrieves AQI from an online API. To use it, you’ll need your own API key to tell the air quality server who is making the request. You can get one here (for free): https://docs.airnowapi.org/, then put the number in the marked place in the code.
 
-![](tutorial%20images/image20.jpg)
-![](tutorial%20images/image10.jpg)
-![](tutorial%20images/image16.jpg)
+| | | |
+------------- | ------------- | -------------
+![](tutorial%20images/image20.jpg) | ![](tutorial%20images/image10.jpg) | ![](tutorial%20images/image16.jpg)
 ![](tutorial%20images/image11.jpg)
 
 ## The "One Hour" Paper Data Dashboard
