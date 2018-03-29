@@ -27,7 +27,7 @@
 
 ## Build a “Scratch Paper” OpenLog
 
-“Scratch Paper” is a clever way to use ordinary electronics components with paper circuits in a modular, reusable way. Here’s how to make one that will log data.
+“[Scratch Paper](http://www.instructables.com/id/ScratchPaper/)” is a clever way to use ordinary electronics components with paper circuits in a modular, reusable way. Here’s how to make one that will log data.
 
 ### Materials:
 * Sparkfun OpenLog
