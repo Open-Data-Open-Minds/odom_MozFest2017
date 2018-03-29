@@ -56,8 +56,7 @@
 
 | | | |
 ------------- | ------------- | -------------
-![](tutorial%20images/image5.jpg) | ![](tutorial%20images/image19.jpg) | 
-![](tutorial%20images/image3.jpg)
+![](tutorial%20images/image5.jpg) | ![](tutorial%20images/image19.jpg) | ![](tutorial%20images/image3.jpg)
 
 ![](tutorial%20images/image6.jpg)
 
