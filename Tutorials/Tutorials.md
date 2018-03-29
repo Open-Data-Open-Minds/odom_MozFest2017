@@ -20,9 +20,9 @@
 
 | | | |
 ------------- | ------------- | ------------
-![survey template](tutorial images/image1.jpg)  | ![Content Cell](tutorial images/image9.jpg) | ![Content Cell](tutorial images/image13.jpg)
-![](tutorial images/image2.jpg)
-![](tutorial images/image7.jpg)
+![](tutorial%20images/image1.jpg)  | ![](tutorial images/image9.jpg) | ![Content Cell](tutorial images/image13.jpg)
+![](tutorial%20images/image2.jpg)
+![](tutorial%20images/image7.jpg)
 
 ## Build a “Scratch Paper” OpenLog
 
